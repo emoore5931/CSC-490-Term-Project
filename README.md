@@ -19,4 +19,4 @@ This is the remote repository for the CSC 490 Term Project in UE5. Please update
 
 ## Linking UE5 to GitHub
 Linking UE5 will be done through Anchor Point, the download for the application can be found in [_Important Links_](#important-links). A tutorial can be found here: 
-https://www.youtube.com/watch?v=iEqQlMNMJW4&t=7s
+https://www.youtube.com/watch?v=iEqQlMNMJW4&t=7s. Be sure to select 'Connect existing Repository via Https' under Remote Settings when selecting Create a Project in Anchor Point. The Https link can be found by selecting the Code dropdown and under Clone.
